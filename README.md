@@ -138,9 +138,3 @@ koskosan/
 ## 📄 Lisensi
 
 Project ini dibuat untuk keperluan akademik (Tugas Akhir Mata Kuliah Pemrograman Berorientasi Objek).
-
-<div align="center">
-
-*Dibuat dengan ☕ dan Java Swing*
-
-</div>
