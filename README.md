@@ -127,10 +127,11 @@ koskosan/
 
 ## 📸 Tampilan Aplikasi
 
-<!-- Sisipkan screenshot tampilan aplikasi di sini, contoh: -->
-<!-- ![Tampilan Utama](screenshots/main-frame.png) -->
+<img width="1237" height="840" alt="image" src="https://github.com/user-attachments/assets/76c17430-a83c-43b8-96a8-36843582c282" />
 
-*(tambahkan screenshot tampilan GUI di sini)*
+<img width="1235" height="837" alt="image" src="https://github.com/user-attachments/assets/5878c8c0-83a1-4261-8614-dd8ec4fb207c" />
+
+<img width="1231" height="837" alt="image" src="https://github.com/user-attachments/assets/9f53d639-0c30-4029-83aa-367b63bd1002" />
 
 ---
 
